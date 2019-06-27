@@ -18,8 +18,3 @@
 * Linked Lists `8%`
 * Recursion and Backtracking `5%`
 * Miscellaneous
-
-##### //todo:
-
-- [ ] Create sub-directories for each given topic (listed above)
-- [ ] Add current progress of Interview Preparation Kit questions
