@@ -4,4 +4,4 @@ Dictionary and Hashmap questions present in the Interview Preparation Kit collec
 
 ##### //todo
 
-- [ ] Add all Dictionary and Hashmap solutions 1/5
+- [ ] Add all Dictionary and Hashmap solutions 0/5
