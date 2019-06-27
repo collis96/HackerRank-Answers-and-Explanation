@@ -1,6 +1,6 @@
 # HackerRank - Answers and Explanations
 
-Working through the problems listed on HackerRank I will share my solutions here. I'll include my thought process when first given the problem and what considerations I made when thinking about Space and Time complexity.
+Working through the problems listed on HackerRank I will share my solutions here. If necessary I'll include my thought process when first given the problem and what considerations I made when thinking about Space and Time complexity.
 
 All solutions completed using **Java**.
 
