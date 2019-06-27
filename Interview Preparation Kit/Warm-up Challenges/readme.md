@@ -12,13 +12,13 @@ Starter questions present in the Interview Preparation Kit collection.
 
 `Possible improvements to be made using hashtables`
 
-### 2. Count Valleys: Count the valleys encountered during a holiday.
+### 2. Counting Valleys: Count the valleys encountered during a holiday.
 
 **Solution Complexity**
 
-*Time Complexity:* NA
+*Time Complexity:* O(n)
 
-*Space Complexity:* NA
+*Space Complexity:* O(n)
 
 ### 3. Jumping on the Clouds: Return the minimum number of jumps required.
 
