@@ -2,9 +2,7 @@
 
 Starter questions present in the Interview Preparation Kit collection.
 
-#### Questions
-
-##### 1. Sock Merchant: Return the total pairs of elements in an Array that share the same value.
+### 1. Sock Merchant: Return the total pairs of elements in an Array that share the same value.
 
 **Solution Complexity**
 
@@ -14,7 +12,7 @@ Starter questions present in the Interview Preparation Kit collection.
 
 `Possible improvements to be made using hashtables`
 
-##### 2. Count Valleys: Count the valleys encountered during a holiday.
+### 2. Count Valleys: Count the valleys encountered during a holiday.
 
 **Solution Complexity**
 
@@ -22,7 +20,7 @@ Starter questions present in the Interview Preparation Kit collection.
 
 *Space Complexity:* NA
 
-##### 3. Jumping on the Clouds: Return the minimum number of jumps required.
+### 3. Jumping on the Clouds: Return the minimum number of jumps required.
 
 **Solution Complexity**
 
@@ -30,7 +28,7 @@ Starter questions present in the Interview Preparation Kit collection.
 
 *Space Complexity:* NA
 
-##### 4. Repeated String: Return an integer representing the number of occurrences of `a` in the prefix of length `n` in the infinitely repeating string.
+### 4. Repeated String: Return an integer representing the number of occurrences of `a` in the prefix of length `n` in the infinitely repeating string.
 
 **Solution Complexity**
 
