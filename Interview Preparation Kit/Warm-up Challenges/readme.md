@@ -24,9 +24,9 @@ Starter questions present in the Interview Preparation Kit collection.
 
 **Solution Complexity**
 
-*Time Complexity:* NA
+*Time Complexity:* O(n)
 
-*Space Complexity:* NA
+*Space Complexity:* O(n)
 
 ### 4. Repeated String: Return an integer representing the number of occurrences of `a` in the prefix of length `n` in the infinitely repeating string.
 
