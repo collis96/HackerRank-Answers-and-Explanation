@@ -68,6 +68,6 @@ The second line contains an Integer, `n`.
 
 **Solution Complexity**
 
-*Time Complexity:* NA
+*Time Complexity:* O(N) where N = size
 
-*Space Complexity:* NA
+*Space Complexity:* O(N)
