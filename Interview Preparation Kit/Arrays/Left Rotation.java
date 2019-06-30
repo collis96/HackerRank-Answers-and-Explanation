@@ -12,14 +12,16 @@ import java.util.regex.*;
 
 public class Solution {
 
-    /* Function rotates elements in an array to the left for a given amount */
+    //Time complexity: O(N)
+    //Space complexity: O(N)
     static int[] rotLeft(int[] a, int d) {
-        int size = a.length;
+        
+        int N = a.length;//Size of array
         int[] result = new int[a.length];
         
-        /* Uses modulus to interate within a given range 'size' */
-        for(int i=0;i<size;i++){
-            result[(i+(size-d))%size] = a[i];
+        /* Uses modulus to iterate within a given range 'N' */
+        for(int i=0;i<N;i++){
+            result[(i+(N-d))%N] = a[i];
         }
         return result;
 
