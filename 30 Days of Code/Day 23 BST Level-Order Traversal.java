@@ -1,5 +1,10 @@
+// Author: Jack Collis
+// GitHub: www.github.com/collis96/
+// Portfolio: www.jackcprojects.co.uk
+
 import java.util.*;
 import java.io.*;
+
 class Node{
     Node left,right;
     int data;
@@ -8,6 +13,7 @@ class Node{
         left=right=null;
     }
 }
+
 class Solution{
 
 //Time complexity: O(n)
@@ -49,6 +55,7 @@ public static Node insert(Node root,int data){
             return root;
         }
     }
+    
     public static void main(String args[]){
             Scanner sc=new Scanner(System.in);
             int T=sc.nextInt();

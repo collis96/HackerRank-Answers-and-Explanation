@@ -1,3 +1,7 @@
+// Author: Jack Collis
+// GitHub: www.github.com/collis96/
+// Portfolio: www.jackcprojects.co.uk
+
 import java.util.*;
 import java.io.*;
 
